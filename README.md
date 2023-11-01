@@ -1,4 +1,3 @@
-We publicize partial codes before acceptance.
 
 # CoupleNet
 Learning Complete Protein Representation by Deep Coupling of Sequence and Structure
@@ -10,7 +9,7 @@ steric parameter, hydrophobicity, volume, polarizability, isoelectric point, hel
 
 test_go.py gets the f_max for a single protein.
 
-
+We publicize partial codes before acceptance.
 
 
 
