@@ -2,6 +2,7 @@
 # CoupleNet
 Learning Complete Protein Representation by Dynamically Coupling of Sequence and Structure. 
 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f8de10c9ff056ae3d1eef43ad1762351-Abstract-Conference.html)
+
 ![img](./model.png)
 
 ## Dataset
